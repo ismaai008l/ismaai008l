@@ -28,6 +28,7 @@ I'm a passionate **programmer and AI enthusiast** with a strong foundation in **
    #### 🔧 Tech & Tools I Use
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 
 ---
