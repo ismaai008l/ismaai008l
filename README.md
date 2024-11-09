@@ -8,10 +8,6 @@ I'm a passionate **programmer and AI enthusiast** with a strong foundation in **
 - **Fine-tuning AI Models**: Experimenting with models for code generation using ManimCE to create animations.
 - **Small Projects**: Developing Python projects that cover everything from data handling to API design with **Pydantic** and **FastAPI**.
 
-#### 🔧 Tech & Tools I Use
-- **Languages**: Python, some experience with C and Go
-- **Frameworks & Libraries**:Pytorch, HuggingFace, FastAPI, ManimCE, Pydantic, HTMX
-- **Tools**: VSCode, Git, Pyenv, Poetry, GitHub Pages for deployment
 
 ---
 
@@ -26,6 +22,13 @@ I'm a passionate **programmer and AI enthusiast** with a strong foundation in **
 - Master Python development through practical projects.
 - Build a well-rounded portfolio showcasing **AI, web development, and data handling**.
 - Contribute to open-source projects to give back and grow as a developer.
+
+---
+   
+   #### 🔧 Tech & Tools I Use
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 
 ---
 
